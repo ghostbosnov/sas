@@ -5,5 +5,8 @@ let prompt = require('prompt-sync')();
     
     for(i=1;i<=N;i++)
         {
-           
+           if(i%X===0){
+            console.log(i) ;
+           }
     }
+   
