@@ -8,5 +8,8 @@ let prompt=require('prompt-sync')()
   }
 console.log(tab)
   for(i=0;i<N;i++){
-    
+    for(j=0;j<tab.length;j++){
+      let existe = false
+      if()
+    }
   }
